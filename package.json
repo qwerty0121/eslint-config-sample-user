@@ -14,7 +14,7 @@
     "vue": "^3.2.45"
   },
   "devDependencies": {
-    "@qwerty0121/eslint-config-sample": "^0.1.0",
+    "@qwerty0121/eslint-config-sample": "^0.2.0",
     "@vitejs/plugin-vue": "^4.0.0",
     "eslint": "^8.34.0",
     "vite": "^4.1.0"
